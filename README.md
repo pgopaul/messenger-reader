@@ -12,8 +12,14 @@
 1. Download your Facebook messages in JSON format
 2. Place all `message_x.json` files in the `input` folder
 3. Set your name in the script (`your_name`)
-4. Run `chat_export.py`
-5. Open `chat.html` in your browser!
+4. Your folder should be looking like this:
+5. MessengerReader/     ← or whatever you choose to call the folder
+├── input/              ← Put all your `message_1.json`, etc. here
+├── chat_export.py      ← Your Python script
+├── README.md           ← Project description
+├── .gitignore          ← Files to ignore
+6. Run `chat_export.py`
+7. Open `chat.html` in your browser!
 
 ## 👤 Author
 Built with ❤️ by pgopaul
