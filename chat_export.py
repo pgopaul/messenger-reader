@@ -65,6 +65,7 @@ html_content = f'''
             padding: 10px 15px;
             border-radius: 20px;
             word-wrap: break-word;
+            clear: both;
         }}
 
         .me {{
@@ -72,6 +73,7 @@ html_content = f'''
             color: white;
             margin-left: auto;
             text-align: right;
+            float: right;
         }}
 
         .other {{
@@ -79,6 +81,7 @@ html_content = f'''
             color: black;
             margin-right: auto;
             text-align: left;
+            float: left;
         }}
 
         body.dark .other {{
