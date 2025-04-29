@@ -16,4 +16,4 @@
 5. Open `chat.html` in your browser!
 
 ## 👤 Author
-Built with ❤️ by Pada
+Built with ❤️ by pgopaul
